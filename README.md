@@ -1,8 +1,12 @@
 ### Hi there 👋
 
-[![Luis's github stats](https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&count_private=true)](https://github.com/Luis-C/github-readme-stats)
+<a href="https://github.com/Luis-C/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&theme=onedark" alt="Luis's github stats" />
+</a>
+<a href="https://github.com/Luis-C/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&count_private=true&theme=onedark" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C)](https://github.com/Luis-C/github-readme-stats)
 
 <!--
 **Luis-C/Luis-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
