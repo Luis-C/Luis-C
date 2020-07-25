@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 <a href="https://github.com/Luis-C/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&theme=onedark" alt="Luis's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&count_private=true&theme=onedark" alt="Luis's github stats" />
 </a>
 <a href="https://github.com/Luis-C/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&count_private=true&theme=onedark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&theme=onedark" />
 </a>
 
 
