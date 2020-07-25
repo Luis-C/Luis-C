@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <a href="https://github.com/Luis-C/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&count_private=true&theme=onedark&line_height=36" alt="Luis's github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Luis-C&show_icons=true&count_private=true&theme=onedark&line_height=40" alt="Luis's github stats" />
 </a>
 <a href="https://github.com/Luis-C/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&theme=onedark" />
