@@ -7,6 +7,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&theme=onedark" />
 </a>
 
+NOTE: Top languages simply refers to the compositin of my GitHub repositories.
 
 <!--
 **Luis-C/Luis-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
