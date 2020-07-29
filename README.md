@@ -7,8 +7,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luis-C&theme=onedark" />
 </a>
 
-NOTE: Top languages is a github metric of which languages I have the most code on github.
-
 - ⚡ Fun fact: I like to draw. 
 
 <!--
