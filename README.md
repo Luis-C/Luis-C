@@ -10,14 +10,13 @@
 -->
 - Checkout my personal website [here.](https://luis-c.github.io/home) 
 - 🌱 I’m currently learning a lot of new things at Counterpoint Consulting.
-- ⚡ Fun fact: I like to draw. 
 - 📫 How to reach me: [LinkedIn.](https://www.linkedin.com/in/luis-angel-cabrera-hernandez-113ba0149/) 
 
 <!--
 **Luis-C/Luis-C** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- ⚡ Fun fact: I like to draw. 
 - 🔭 I’m currently working on ...
  ...
 - 👯 I’m looking to collaborate on ...
